@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Twitter profile view",
+        "file": "twitter_pfp_example",
+        "placements": [{
+            "name": "main_avatar",
+            "x": 32,
+            "y": 250,
+            "width": 270
+        },{
+            "name": "comment_avatar",
+            "x": 33,
+            "y": 1010,
+            "width": 100
+        }
+        ]
+    },{
+      "name": "Discord channel view",
+      "file": "discord_pfp_example",
+      "placements": [{
+          "name": "first_avatar",
+          "x": 516,
+          "y": 180,
+          "width": 80,
+          "avatar": 0
+      },{
+          "name": "second_avatar",
+          "x": 516,
+          "y": 372,
+          "width": 80,
+          "avatar": 10
+      },{
+        "name": "third_avatar",
+        "x": 516,
+        "y": 502,
+        "width": 80,
+        "avatar": 20
+      },{
+        "name": "forth_avatar",
+        "x": 516,
+        "y": 728,
+        "width": 80,
+        "avatar": 25
+      },{
+        "name": "fifth_avatar",
+        "x": 516,
+        "y": 854,
+        "width": 80,
+        "avatar": 28
+      },{
+        "name": "sixth_avatar",
+        "x": 516,
+        "y": 1030,
+        "width": 80,
+        "avatar": 30
+      },{
+        "name": "seventh_avatar",
+        "x": 516,
+        "y": 1162,
+        "width": 80,
+        "avatar": 39
+      }
+      ]
+  }
+]

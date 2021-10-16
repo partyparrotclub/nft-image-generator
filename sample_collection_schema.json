@@ -1,0 +1,22 @@
+[
+    {
+        "name": "background",
+        "folder": "0_backgrounds",
+        "weight": 0
+    },
+    {
+        "name": "body",
+        "folder": "10_bodies",
+        "weight": 10
+    },
+    {
+        "name": "eyes",
+        "folder": "20_eyes",
+        "weight": 20
+    },
+    {
+        "name": "beaks",
+        "folder": "30_beaks",
+        "weight": 30
+    }
+]
